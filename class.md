@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Shreya S
+- Certification: Metas Front End Developer Certificate
 
 ## Instructions
 Please replace the placeholders with your details:
